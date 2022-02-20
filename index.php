@@ -10,6 +10,7 @@
 
 <body>
     <?php echo "Hello World!"; ?>
+    <?php echo "Edgars Roze"; ?>
 </body>
 
 </html>
