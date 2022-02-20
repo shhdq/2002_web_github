@@ -10,6 +10,7 @@
 
 <body>
     <?php echo "Hello World!"; ?>
+    <?php echo "Hello grom Mars (Janis Kalnins)"; ?>
 </body>
 
 </html>
