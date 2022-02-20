@@ -10,7 +10,15 @@
 
 <body>
     <?php echo "Hello World!"; ?>
+  
+    <?php echo "Hello from Mars (Janis Kalnins)"; ?>
+
+    <?php echo "Edgars Roze"; ?>
+  
+    <?php echo "Kristians Veibs"; ?>
+  
     <?php echo "Alise Petersone"; ?>
+
 </body>
 
 </html>
