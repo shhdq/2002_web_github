@@ -14,6 +14,8 @@
     <?php echo "Hello from Mars (Janis Kalnins)"; ?>
 
     <?php echo "Edgars Roze"; ?>
+  
+    <?php echo "Kristians Veibs"; ?>
 
 </body>
 
